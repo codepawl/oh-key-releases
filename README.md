@@ -1,4 +1,13 @@
-# oh-key releases
+<p align="center">
+  <a href="https://codepawl.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codepawl/.github/main/brand/codepawl-lockup-dark.png">
+      <img alt="CodePawl" src="https://raw.githubusercontent.com/codepawl/.github/main/brand/codepawl-lockup.png" width="200">
+    </picture>
+  </a>
+</p>
+
+<h1 align="center">oh-key releases</h1>
 
 This repository holds the built files of oh-key, a Vietnamese typing app for Windows and macOS. Every release also carries the complete source code of that version as `oh-key-source.zip`.
 
@@ -43,3 +52,18 @@ oh-key checks this repository for a new release. You choose in the settings whet
 oh-key is free software under the GNU General Public License, version 3 or later ([LICENSE](LICENSE)). Its charset tables come from UniKey by Pham Kim Long, under the GPL version 2 or later. The `NOTICE` file in each zip and in `oh-key-source.zip` lists the credits.
 
 You may use, share and change oh-key under those terms. The source of each version is in its release as `oh-key-source.zip`.
+
+<br>
+
+<p align="center">
+  <sub>Made by CodePawl, an independent 3D studio in Vietnam.</sub>
+  <br>
+  <sub>
+    <a href="https://codepawl.com">Website</a> ·
+    <a href="https://x.com/codepawl">X</a> ·
+    <a href="https://github.com/codepawl">GitHub</a> ·
+    <a href="https://huggingface.co/codepawl">Hugging Face</a> ·
+    <a href="https://www.youtube.com/@codepawlhq">YouTube</a> ·
+    <a href="https://www.threads.com/@codepawl">Threads</a>
+  </sub>
+</p>
